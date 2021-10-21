@@ -1,5 +1,5 @@
 {
-  "name": "google-pokemap",
+  "name": "april-fools-google-pokemap",
   "version": "1.0.0",
   "description": "For April Fools of 2014, Google challenged iPhone and Android users to find 150 Pokémon that were hidden all across its map. This Google PokéMap shows a compilation of locations put together by users on Reddit, from a list that contained only one position per Pokémon. The displayed data for each Pokémon is from the PokéAPI.",
   "main": "index.html",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SittingFox/frontend-nanodegree-neighborhood-map.git"
+    "url": "git+https://github.com/Digizard/april-fools-google-pokemap.git"
   },
   "keywords": [
     "pokemon",
@@ -23,10 +23,10 @@
     "google",
     "maps"
   ],
-  "author": "Sitting Fox <SittingFox@users.noreply.github.com>",
+  "author": "Digizard <2101199+Digizard@users.noreply.github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SittingFox/frontend-nanodegree-neighborhood-map/issues"
+    "url": "https://github.com/Digizard/april-fools-google-pokemap/issues"
   },
-  "homepage": "https://github.com/SittingFox/frontend-nanodegree-neighborhood-map#readme"
+  "homepage": "https://github.com/Digizard/april-fools-google-pokemap#readme"
 }

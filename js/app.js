@@ -1,7 +1,7 @@
 /**
  * Creates interactive Google PokeMap, with list and search box, using data
  * collected by Reddit users during Google's 2014 April Fools' Day challenge.
- * @author SittingFox
+ * @author Digizard
  * @required knockout.js
  */
 
